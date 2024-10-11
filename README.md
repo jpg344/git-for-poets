@@ -1,3 +1,3 @@
 # git-for-poets
 
-Neuer Inhalt
+Just a test of the fork function / collaborative work on github.
